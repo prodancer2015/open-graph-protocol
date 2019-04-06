@@ -1,0 +1,1 @@
+It is time to update this protocol to use HTTPS. Errors are happening all over because your using the hold HTTP.
